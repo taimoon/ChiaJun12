@@ -3,7 +3,9 @@
 I am a CS undergraduate specialism in Data Analystic.
 
 ### What I'm focusing on 
-
+- Machine Learning
+- Deep Learning (especially Image Processing)
+- Time Series 
 
 ### Projects
 
