@@ -9,13 +9,14 @@ I am a CS undergraduate specialism in Data Analystic.
 
 
 ### Languages
-!['languge'](https://img.shields.io/badge/-Python-3776AB)
-!['languge'](https://img.shields.io/badge/-SQL-CC2927)
-!['languge'](https://img.shields.io/badge/-Java-F7DF1E)
-!['languge'](https://img.shields.io/badge/-C++-00599C)
+!['languge']([https://img.shields.io/badge/-Python-3776AB](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge))
+!['languge']([https://img.shields.io/badge/-Python-3776AB](https://img.shields.io/badge/-SQL-CC2927?logo=SQLite&logoColor=white&style=for-the-badge))
+!['languge']([https://img.shields.io/badge/-Python-3776AB](https://img.shields.io/badge/-Java-F7DF1E?style=for-the-badge))
+!['languge']([https://img.shields.io/badge/-Python-3776AB](https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=white&style=for-the-badge))
 
 ### Libraries
-!['languge'](https://img.shields.io/badge/-TensorFlow-FF6F00)
-!['languge'](https://img.shields.io/badge/-Keras-D00000)
-!['languge'](https://img.shields.io/badge/-PyTorch-EE4C2C)
-!['languge'](https://img.shields.io/badge/-Sklearn-F7931E)
+!['languge']([https://img.shields.io/badge/-Python-3776AB](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=for-the-badge))
+!['languge']([https://img.shields.io/badge/-Python-3776AB](https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white&style=for-the-badge))
+!['languge']([https://img.shields.io/badge/-Python-3776AB](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=for-the-badge))
+!['languge']([https://img.shields.io/badge/-Python-3776AB](https://img.shields.io/badge/-Sklearn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge))
+   
