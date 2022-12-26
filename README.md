@@ -1,6 +1,6 @@
 ### Hi there 👋, Khoh Chia Jun here.
 
-I am a CS undergraduate specialism in Data Analystic.
+I am a CS undergraduate specialism in Data Analytics.
 
 ### What I'm focusing on 
 - Machine Learning
