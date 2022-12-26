@@ -8,7 +8,7 @@ I am a CS undergraduate specialism in Data Analystic.
 - Time Series 
 
 ### Projects
-click [here]() for my projects
+click [here](https://github.com/ChiaJun12/Projects) for my projects
 
 ### Languages
 !['languge'](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
