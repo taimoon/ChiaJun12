@@ -6,7 +6,10 @@ I am a CS undergraduate specialism in Data Analystic.
 - Machine Learning
 - Deep Learning (especially Image Processing)
 - Time Series 
- 
+
+### Projects
+click [here]() for my projects
+
 ### Languages
 !['languge'](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
 !['languge'](https://img.shields.io/badge/-SQL-CC2927?logo=SQLite&logoColor=white&style=for-the-badge)
